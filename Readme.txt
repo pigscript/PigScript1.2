@@ -12,7 +12,8 @@ How to draw:
 	3. Follow the instructions on the command line.
 	
 Caution:
-	1. Don't let the command window block the color wheel.
+	0. It's recomended that you set your pen size(manually, the program won't do that) to be 1 or 2. If you set your pen size to be x, the output image will be scaled by x.
+	1. Make sure the command window does not block the color wheel.
 	2. If the image is large(>600*600), it may take several seconds to load.
 	3. If the image is too large or too complicated(has more than 8 major colors), it may take very long to draw.
 	4. If your screen resolution is not 1280*800 or 1366*768, you need to help the program to locate the big ball and the color wheel.
