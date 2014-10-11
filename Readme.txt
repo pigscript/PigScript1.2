@@ -1,4 +1,4 @@
-pigscript 1.2
+pigscript 1.3
 Please help me improve the code!
 My email: pigscript@gmail.com
 
